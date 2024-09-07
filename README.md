@@ -1,4 +1,4 @@
-[23:39, 06/09/2024] Branquinha 👑🥸: # 🚀 Gerenciador de Tarefas e Calculadora de Números Inteiros em Java
+# 🚀 Gerenciador de Tarefas e Calculadora de Números Inteiros em Java
 
 Este repositório contém dois projetos desenvolvidos em Java: um *Gerenciador de Tarefas* e uma *Calculadora de Números Inteiros*. Ambos os projetos foram desenvolvidos com foco em fundamentos da programação, como controle de fluxo e manipulação de arrays.
 
@@ -32,7 +32,7 @@ Tarefa adicionada!
 Selecione uma opção: 3
 Tarefas:
 1 - Comprar leite
-[23:39, 06/09/2024] Branquinha 👑🥸: Escolha a operação:
+Escolha a operação:
 1 - Adição
 2 - Subtração
 3 - Multiplicação
