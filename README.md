@@ -31,7 +31,8 @@ Tarefa adicionada!
 
 Selecione uma opção: 3
 Tarefas:
-1 - Comprar leite
+1 - Comprar leite]
+
 Escolha a operação:
 1 - Adição
 2 - Subtração
