@@ -31,7 +31,9 @@ Tarefa adicionada!
 
 Selecione uma opção: 3
 Tarefas:
-1 - Comprar leite]
+1 - Comprar leite
+
+--------------------------------
 
 Escolha a operação:
 1 - Adição
@@ -46,6 +48,8 @@ Digite o primeiro número: 10
 Digite o segundo número: 5
 Resultado: 15
 
-🔧 Como executar
+```
+## 🔧 Como executar 
+
 Clone o repositório:
-git clone https://github.com/seuusuario/DesafiosJava.git
+git clone https://github.com/arthur810FR/Desafios-Incode.git
